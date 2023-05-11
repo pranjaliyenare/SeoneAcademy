@@ -1,0 +1,27 @@
+CRITICAL - 2023-04-13 10:56:12 --> syntax error, unexpected end of file
+in APPPATH\Views\register_details.php on line 121.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('register_details', [], true)
+ 3 APPPATH\Controllers\Home.php(200): view('register_details', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->register_details()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 11:16:02 --> syntax error, unexpected end of file
+in APPPATH\Views\register_details.php on line 157.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('register_details', [], true)
+ 3 APPPATH\Controllers\Home.php(200): view('register_details', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->register_details()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-13 11:17:09 --> syntax error, unexpected end of file
+in APPPATH\Views\register_details.php on line 157.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('register_details', [], true)
+ 3 APPPATH\Controllers\Home.php(200): view('register_details', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->register_details()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

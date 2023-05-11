@@ -1,0 +1,494 @@
+ERROR - 2023-04-15 04:54:20 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 04:54:20 --> 220 smtp.gmail.com ESMTP j10-20020aa78dca000000b0062a56e51fd7sm3810102pfr.188 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials j10-20020aa78dca000000b0062a56e51fd7sm3810102pfr.188 - gsmtp
+
+ERROR - 2023-04-15 04:55:58 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 04:55:58 --> 220 smtp.gmail.com ESMTP b2-20020a170902ed0200b001a6370bb33csm3815521pld.41 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials b2-20020a170902ed0200b001a6370bb33csm3815521pld.41 - gsmtp
+
+ERROR - 2023-04-15 04:59:26 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 04:59:26 --> 220 smtp.gmail.com ESMTP n20-20020a170902d0d400b001a6388ce38bsm3799403pln.240 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n20-20020a170902d0d400b001a6388ce38bsm3799403pln.240 - gsmtp
+
+ERROR - 2023-04-15 05:00:14 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 05:00:14 --> 220 smtp.gmail.com ESMTP r7-20020a62e407000000b0063b7af67630sm389761pfh.29 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials r7-20020a62e407000000b0063b7af67630sm389761pfh.29 - gsmtp
+
+ERROR - 2023-04-15 05:15:02 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 05:15:02 --> 220 smtp.gmail.com ESMTP x24-20020a1709027c1800b001a50ede5086sm3827762pll.51 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials x24-20020a1709027c1800b001a50ede5086sm3827762pll.51 - gsmtp
+
+ERROR - 2023-04-15 05:16:50 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 05:16:50 --> 220 smtp.gmail.com ESMTP p6-20020a654bc6000000b00517cb7413aesm3558654pgr.59 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials p6-20020a654bc6000000b00517cb7413aesm3558654pgr.59 - gsmtp
+
+ERROR - 2023-04-15 05:21:10 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 05:21:10 --> 220 smtp.gmail.com ESMTP m26-20020a056a00165a00b0063b76c803edsm975079pfc.142 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials m26-20020a056a00165a00b0063b76c803edsm975079pfc.142 - gsmtp
+
+CRITICAL - 2023-04-15 07:43:32 --> File not found: "http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf"
+in SYSTEMPATH\Files\File.php on line 47.
+ 1 SYSTEMPATH\Files\File.php(47): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(97): CodeIgniter\Files\File->__construct('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(794): CodeIgniter\HTTP\DownloadResponse->setFilePath('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 4 APPPATH\Controllers\Home.php(207): CodeIgniter\HTTP\Response->download('SEONE_brocture.pdf', null)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->download_brochure()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:44:09 --> File not found: "http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf"
+in SYSTEMPATH\Files\File.php on line 47.
+ 1 SYSTEMPATH\Files\File.php(47): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(97): CodeIgniter\Files\File->__construct('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(794): CodeIgniter\HTTP\DownloadResponse->setFilePath('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 4 APPPATH\Controllers\Home.php(207): CodeIgniter\HTTP\Response->download('SEONE_brocture.pdf', null)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->download_brochure()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:45:09 --> File not found: "http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf"
+in SYSTEMPATH\Files\File.php on line 47.
+ 1 SYSTEMPATH\Files\File.php(47): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(97): CodeIgniter\Files\File->__construct('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(794): CodeIgniter\HTTP\DownloadResponse->setFilePath('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 4 APPPATH\Controllers\Home.php(207): CodeIgniter\HTTP\Response->download('SEONE_brocture.pdf', null)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->download_brochure()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:45:44 --> File not found: "http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf"
+in SYSTEMPATH\Files\File.php on line 47.
+ 1 SYSTEMPATH\Files\File.php(47): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(97): CodeIgniter\Files\File->__construct('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(794): CodeIgniter\HTTP\DownloadResponse->setFilePath('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 4 APPPATH\Controllers\Home.php(207): CodeIgniter\HTTP\Response->download('SEONE_brocture.pdf', null)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->download_brochure()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:45:55 --> File not found: "http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf"
+in SYSTEMPATH\Files\File.php on line 47.
+ 1 SYSTEMPATH\Files\File.php(47): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(97): CodeIgniter\Files\File->__construct('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(794): CodeIgniter\HTTP\DownloadResponse->setFilePath('http://localhost/SeoneAcademy/public/assets/img/course/SEONE_brocture.pdf')
+ 4 APPPATH\Controllers\Home.php(207): CodeIgniter\HTTP\Response->download('SEONE_brocture.pdf', null)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->download_brochure()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:46:10 --> File not found: "/public/assets/img/course/SEONE_brocture.pdf"
+in SYSTEMPATH\Files\File.php on line 47.
+ 1 SYSTEMPATH\Files\File.php(47): CodeIgniter\Files\Exceptions\FileNotFoundException::forFileNotFound('/public/assets/img/course/SEONE_brocture.pdf')
+ 2 SYSTEMPATH\HTTP\DownloadResponse.php(97): CodeIgniter\Files\File->__construct('/public/assets/img/course/SEONE_brocture.pdf', true)
+ 3 SYSTEMPATH\HTTP\ResponseTrait.php(794): CodeIgniter\HTTP\DownloadResponse->setFilePath('/public/assets/img/course/SEONE_brocture.pdf')
+ 4 APPPATH\Controllers\Home.php(207): CodeIgniter\HTTP\Response->download('SEONE_brocture.pdf', null)
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->download_brochure()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:56:51 --> Call to a member function download() on null
+in APPPATH\Models\brochureModel.php on line 80.
+ 1 APPPATH\Controllers\Home.php(232): App\Models\brochureModel->download_pdf()
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->download_brochure()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-15 07:58:30 --> Call to a member function download() on null
+in APPPATH\Models\brochureModel.php on line 80.
+ 1 APPPATH\Controllers\Home.php(231): App\Models\brochureModel->download_pdf('FCPATH\\public\\assets\\img\\course\\SEONE_brocture.pdf')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Home->download_brochure()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-15 08:46:32 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:46:32 --> 220 smtp.gmail.com ESMTP v11-20020a62a50b000000b0063afb08afeesm4262307pfm.67 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v11-20020a62a50b000000b0063afb08afeesm4262307pfm.67 - gsmtp
+
+ERROR - 2023-04-15 08:49:31 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:49:31 --> 220 smtp.gmail.com ESMTP v18-20020a62a512000000b006089fb79f1esm4361262pfm.96 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v18-20020a62a512000000b006089fb79f1esm4361262pfm.96 - gsmtp
+
+ERROR - 2023-04-15 08:51:51 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:51:51 --> 220 smtp.gmail.com ESMTP d11-20020aa7868b000000b0063b7331a4easm1656085pfo.154 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d11-20020aa7868b000000b0063b7331a4easm1656085pfo.154 - gsmtp
+
+ERROR - 2023-04-15 08:53:41 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:53:41 --> 220 smtp.gmail.com ESMTP u6-20020a17090a1d4600b00246aba3ebabsm5710948pju.45 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u6-20020a17090a1d4600b00246aba3ebabsm5710948pju.45 - gsmtp
+
+ERROR - 2023-04-15 08:54:20 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:54:20 --> 220 smtp.gmail.com ESMTP a3-20020a170902b58300b0019a593e45f1sm561772pls.261 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a3-20020a170902b58300b0019a593e45f1sm561772pls.261 - gsmtp
+
+ERROR - 2023-04-15 08:54:22 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:54:22 --> 220 smtp.gmail.com ESMTP u12-20020aa7848c000000b0062d35807d3asm4289026pfn.28 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u12-20020aa7848c000000b0062d35807d3asm4289026pfn.28 - gsmtp
+
+ERROR - 2023-04-15 08:54:23 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:54:23 --> 220 smtp.gmail.com ESMTP jh10-20020a170903328a00b001a63ba28053sm4263451plb.68 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials jh10-20020a170903328a00b001a63ba28053sm4263451plb.68 - gsmtp
+
+ERROR - 2023-04-15 08:54:24 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:54:24 --> 220 smtp.gmail.com ESMTP ba4-20020a170902720400b001a647709864sm4237275plb.155 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials ba4-20020a170902720400b001a647709864sm4237275plb.155 - gsmtp
+
+ERROR - 2023-04-15 08:54:26 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:54:26 --> 220 smtp.gmail.com ESMTP z18-20020a170902ee1200b001a4fe00a8d4sm4229057plb.90 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials z18-20020a170902ee1200b001a4fe00a8d4sm4229057plb.90 - gsmtp
+
+ERROR - 2023-04-15 08:55:40 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:55:40 --> 220 smtp.gmail.com ESMTP y31-20020a634b1f000000b005182bfef363sm3850168pga.34 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials y31-20020a634b1f000000b005182bfef363sm3850168pga.34 - gsmtp
+
+ERROR - 2023-04-15 08:57:08 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:57:08 --> 220 smtp.gmail.com ESMTP g7-20020a170902740700b001a0448731c2sm4246476pll.47 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials g7-20020a170902740700b001a0448731c2sm4246476pll.47 - gsmtp
+
+ERROR - 2023-04-15 08:58:02 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:58:02 --> 220 smtp.gmail.com ESMTP f21-20020a170902e99500b001a1a8e98e93sm4199474plb.287 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials f21-20020a170902e99500b001a1a8e98e93sm4199474plb.287 - gsmtp
+
+ERROR - 2023-04-15 08:59:53 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 08:59:53 --> 220 smtp.gmail.com ESMTP c18-20020aa78812000000b0063b73e69ea2sm1588639pfo.42 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials c18-20020aa78812000000b0063b73e69ea2sm1588639pfo.42 - gsmtp
+
+ERROR - 2023-04-15 09:00:38 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 09:00:38 --> 220 smtp.gmail.com ESMTP 20-20020a170902ee5400b001a525705aa8sm4209026plo.136 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials 20-20020a170902ee5400b001a525705aa8sm4209026plo.136 - gsmtp
+
+ERROR - 2023-04-15 09:00:54 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 09:00:54 --> 220 smtp.gmail.com ESMTP z9-20020a1709028f8900b0019aeddce6casm4203077plo.205 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials z9-20020a1709028f8900b0019aeddce6casm4203077plo.205 - gsmtp
+
+ERROR - 2023-04-15 09:01:12 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 09:01:12 --> 220 smtp.gmail.com ESMTP s1-20020a170902988100b001a69305ae3asm3066304plp.288 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials s1-20020a170902988100b001a69305ae3asm3066304plp.288 - gsmtp
+
+ERROR - 2023-04-15 09:01:20 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 09:01:20 --> 220 smtp.gmail.com ESMTP jm10-20020a17090304ca00b001a55c2a42f6sm4260819plb.158 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials jm10-20020a17090304ca00b001a55c2a42f6sm4260819plb.158 - gsmtp
+
+ERROR - 2023-04-15 09:01:32 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 09:01:32 --> 220 smtp.gmail.com ESMTP d3-20020a63d703000000b0050bc4ca9024sm3923629pgg.65 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d3-20020a63d703000000b0050bc4ca9024sm3923629pgg.65 - gsmtp
+
+ERROR - 2023-04-15 09:03:28 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 09:03:28 --> 220 smtp.gmail.com ESMTP u1-20020a655c01000000b0051322a5aa64sm3949010pgr.3 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u1-20020a655c01000000b0051322a5aa64sm3949010pgr.3 - gsmtp
+
+ERROR - 2023-04-15 09:07:02 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 09:07:02 --> 220 smtp.gmail.com ESMTP v62-20020a632f41000000b0050f6530959bsm3752773pgv.64 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v62-20020a632f41000000b0050f6530959bsm3752773pgv.64 - gsmtp
+
+ERROR - 2023-04-15 09:28:55 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-04-15 09:28:55 --> 220 smtp.gmail.com ESMTP a10-20020a170902ee8a00b001a6392b073csm4297326pld.19 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [103.74.196.218]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials a10-20020a170902ee8a00b001a6392b073csm4297326pld.19 - gsmtp
+
